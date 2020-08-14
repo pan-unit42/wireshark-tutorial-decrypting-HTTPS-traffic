@@ -1,5 +1,5 @@
-# wireshark-tutorials-and-workshops
+# wireshark-tutorial-decrypting-HTTPS-traffic
 
-This Github repository contains zip archives containing pcaps and other files for Wireshark tutorials and workshop videos.
+This Github repository contains a zip archive with a pcap and KeysLog text file for our Wireshark tutorial on decrypting HTTPS traffic.
 
 The password for any of the zip files posted here is: infected
